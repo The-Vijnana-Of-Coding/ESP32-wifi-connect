@@ -1,2 +1,3 @@
-# ESP32-wifi-connect
-Simple wifi connection
+# Quick and easy WiFi setup for ESP32
+
+
